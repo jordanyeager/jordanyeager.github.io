@@ -1,0 +1,29 @@
+h1{
+    font-size: 5.3em;
+    text-align: center;
+    color: crimson;
+    margin-left: 40px;
+    padding: 10px 10px 10px 10px;
+}
+
+h2 {
+    text-align: center; 
+}
+
+p {
+    padding: 10px 10px 10px 10px;
+    text-align: center; 
+}
+
+
+body {
+    background-color: rgb(239, 242, 247);
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    margin 30px auto 30px auto;
+    padding: 30px 30px 30px 30px;
+    border: 1px solid rgb(27, 38,58)
+}
